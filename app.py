@@ -220,7 +220,6 @@ else:
     for story in filtered:
         st.markdown(story, unsafe_allow_html=False)
         st.divider()
-```
 
 ---
 
