@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import feedparser
 import google.generativeai as genai
