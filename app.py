@@ -223,7 +223,6 @@ else:
 
 ### File 4 of 4 - type filename: `README.md`
 
-```
 # Insurance Intelligence Feed
 
 Automated insurance intelligence dashboard. Free to run.
