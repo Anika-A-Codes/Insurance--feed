@@ -221,8 +221,6 @@ else:
         st.markdown(story, unsafe_allow_html=False)
         st.divider()
 
----
-
 ### File 4 of 4 - type filename: `README.md`
 
 ```
