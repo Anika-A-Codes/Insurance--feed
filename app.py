@@ -6,8 +6,8 @@ import time
 import re
 
 st.set_page_config(
-    page_title="Insurance Intelligence Feed",
-    page_icon="shield",
+    page_title="InsureIntel",
+    page_icon="investigator",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -178,7 +178,7 @@ def build_feed(days: int) -> list[str]:
 
 
 # ---------- UI ----------
-st.title("Insurance Intelligence Feed")
+st.title("InsureIntel")
 
 with st.sidebar:
     st.header("Filters")
